@@ -1,0 +1,187 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f5dc;
+  }
+  
+  h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+  }
+  
+  h2 {
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 25px;
+  }
+  
+  hr {
+    border: dotted grey 8px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  }
+  
+  p {
+    line-height: 2;
+  }
+  
+  a {
+    color: #f5f5dc;
+    font-family: 'Merriweather', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #f5f5dc;
+  }
+  
+  .top-container {
+    position: relative;
+    padding-top: 10rem;
+    padding-bottom: 16rem;
+  }
+  
+  .middle-container {
+  
+  }
+  
+  .middle-container2 {
+    margin: 100px auto;
+  }
+  
+  .bottom-container {
+    background-color: #aa0000;
+    padding: 1.5rem 0 0.5rem;
+  }
+  
+  .goal-row {
+    width: 75%;
+    margin: 1rem auto 2.5rem;
+    text-align: left;
+    padding: 50px 0 100px;
+    line-height: 2;
+  }
+  
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+  }
+  
+  .bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+  }
+  
+  .intro{
+    width: 50%;
+    margin: auto;
+    margin-top: 2.5rem;
+    margin-bottom: 10rem;
+    line-height: 2;
+  }
+  
+  .profile {
+    border-radius: 25%;
+  }
+  
+  .wallet {
+    border-radius: 25%;
+    width: 25%;
+    float: left;
+    margin-right: 2.5rem;
+  }
+  
+  .web3 {
+    border-radius: 25%;
+    width: 25%;
+    float: right;
+    margin-left: 2.5rem;
+  }
+  
+  .byte-sized {
+    border-radius: 25%;
+    width: 25%;
+    float: left;
+    margin-right: 2.5rem;
+  }
+
+  .constitution-block {
+      margin: 2.5rem auto 2.5rem;
+  }
+  
+  .contact-message1 {
+    width: 30%;
+    margin: 12.5rem auto 2.5rem;
+  }
+  
+  .contact-message2 {
+    width: 30%;
+    margin: 2.5rem auto 2.5rem;
+  }
+
+  .contact-message3 {
+    width: 30%;
+    margin: 2.5rem auto 2.5rem;
+  }
+  
+  
+  .footer-link {
+    padding: 0 30px;
+  }
+  
+  .copyright {
+    color: #EAF6F6;
+    font-size: 1rem;
+    padding: 1rem 0 0;
+  }
+  
+  .row {
+    align-content:flex-start;
+    margin: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: black;
+  }
+  
+  .officer-header {
+    padding: 2.5rem 0 2rem;
+  }
+  
+  .constitution-header {
+    padding: 2.5rem 0 2.5rem;
+  }
+
+  .proj {
+    padding: 5rem 0;
+  }
+  
+  .hello {
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+  }
+  
+  #about-me {
+    padding: 100px 0 0;
+  }
+  
+  #red-button {
+    background-color: #aa0000;
+  }
+  
+  .btn {
+    color: white;
+    font-family: 'Montserrat'
+  }
+  
+  .btn:hover {
+    color: black;
+  }
