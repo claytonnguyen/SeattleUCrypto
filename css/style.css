@@ -49,7 +49,7 @@ body {
   }
   
   .middle-container {
-  
+    margin: 100px auto;
   }
   
   .middle-container2 {
@@ -69,17 +69,15 @@ body {
     line-height: 2;
   }
   
-  .top-cloud {
+  .backgrnd-icon {
     position: absolute;
-    right: 300px;
+    max-width: 20%;
+    height: auto;
+    right: 2.5rem;
     top: 50px;
+    z-index: -1;
   }
   
-  .bottom-cloud {
-    position: absolute;
-    left: 300px;
-    bottom: 300px;
-  }
   
   .intro{
     width: 50%;
